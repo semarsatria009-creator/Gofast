@@ -1,0 +1,7 @@
+{
+  "name": "GoFast Super App",
+  "description": "A comprehensive ojek online and food delivery application with AI-powered smart recommendations and real-time ride tracking simulation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
